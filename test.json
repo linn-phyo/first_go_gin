@@ -1,0 +1,52 @@
+{
+    "info": {
+        "_postman_id": "ac691afd-f987-47ca-82d3-dae2a367e3df",
+        "name": "ParseGo",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "Gogo",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "https://www.google.com/",
+                    "protocol": "https",
+                    "host": [
+                        "www",
+                        "google",
+                        "com"
+                    ],
+                    "path": [
+                        ""
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Golang",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": ""
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Hide Pool!",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": ""
+                }
+            },
+            "response": []
+        }
+    ],
+    "protocolProfileBehavior": {}
+}
